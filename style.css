@@ -21,7 +21,7 @@ nav {
   justify-content: space-around;
 }
 .navlink {
-  margin: 20px;
+  margin: 50px;
   transition: 0.5s;
   text-decoration: none;
 }
